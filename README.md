@@ -20,6 +20,8 @@ _________________________
 ### Who am I?
 I am student at Government college of engineering Aurangabad and pursuing BE in Computer Science and Engineering.I am doing virtual internship at Elite Techno Groups(Python for Al/ML) and industry connect internship program(ICIP) at Maharashtra Chamber Of Commerce,Industry & Agriculture(MACCIA).
 
+_________________________
+
 Other Useful Links:
 
 LinkedIn - https://www.linkedin.com/in/rutuja-aswar-b130a921a
