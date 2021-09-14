@@ -5,7 +5,7 @@ This repository is having code used in AI/ML internship Assignment on Summer Oly
 _________________________
 
 ### About the Repository?
-You will learn about data analysis,numpy,pandas and matplotlib
+You will learn about data analysis,numpy,pandas and matplotlib.pyplot
 _________________________
 
 ### Features
